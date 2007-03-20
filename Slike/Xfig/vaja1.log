@@ -1,0 +1,120 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2006.6.1)  17 JUN 2006 16:29
+entering extended mode
+**vaja1.tex
+(./vaja1.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for loaded.
+! Undefined control sequence.
+<recently read> \includegraphics 
+                                 
+l.2 \includegraphics
+                    {Slike/Xfig/vaja1.ps}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \end{picture}
+                 %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Argument of \SetFigFont has an extra }.
+<inserted text> 
+                \par 
+l.13 ...rmdefault}{\color[rgb]{0,0,0}$\equiv$}}}}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+! Undefined control sequence.
+<argument> \color 
+                  [rgb]{0,0,0}$\equiv $
+l.13 ...rmdefault}{\color[rgb]{0,0,0}$\equiv$}}}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \equiv 
+l.13 ...rmdefault}{\color[rgb]{0,0,0}$\equiv$}}}}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...rmdefault}{\color[rgb]{0,0,0}$\equiv$}}}}}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+! Extra \endcsname.
+\font@name ...rgb]{0,0,0}$ \equiv $//12\endcsname 
+                                                  
+l.13 ...rmdefault}{\color[rgb]{0,0,0}$\equiv$}}}}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+)
+! Emergency stop.
+<*> vaja1.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 30 strings out of 95331
+ 377 string characters out of 1187713
+ 44796 words of memory out of 1000000
+ 3200 multiletter control sequences out of 10000+50000
+ 6376 words of font info for 23 fonts, out of 500000 for 2000
+ 0 hyphenation exceptions out of 8191
+ 25i,7n,27p,142b,175s stack positions out of 1500i,500n,5000p,200000b,5000s
+PDF statistics:
+ 0 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 1 words of extra memory for PDF output out of 65536
+No pages of output.
